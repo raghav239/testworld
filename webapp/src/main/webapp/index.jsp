@@ -1,4 +1,5 @@
-<h1> Happy Friday </h1>
+<h1> Title </h1>
+<h2> Happy Friday </h2>
 <h2> adding to test deploy on ec2-inc using ssh protocol </h2>
 <h2> Hello, Welcome to Simple DevOps Project !!   </h2>
 <h2> Deploying on a kubernetes using ansible for Devops Techonologies </h2>
